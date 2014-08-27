@@ -1,0 +1,312 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-08-27T14:20:44+00:00
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 275
+
+Apache Licensed: 0
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/tuple/base/TuplePairComparatorTestBase.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/tuple/base/TupleComparatorTestBase.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/WritableSerializerTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/WritableComparatorTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/ValueComparatorTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/TupleSerializerTestInstance.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/TupleSerializerTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/TuplePairComparatorTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/TupleLeadingFieldPairComparatorTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/TupleLeadingFieldComparatorTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/TupleComparatorISD3Test.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/TupleComparatorISD2Test.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/TupleComparatorISD1Test.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/TupleComparatorILDXC2Test.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/TupleComparatorILDX1Test.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/TupleComparatorILDC3Test.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/TupleComparatorILD3Test.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/TupleComparatorILD2Test.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/StringArrayWritable.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/PojoSerializerTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/GenericTypeSerializerTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/GenericTypeComparatorTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/GenericArraySerializerTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/runtime/CopyableValueComparatorTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/typeutils/TypeInfoParserTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/type/extractor/TypeExtractorTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/type/extractor/TypeExtractorInputFormatsTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/type/extractor/PojoTypeInformationTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/tuple/Tuple2Test.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/record/io/TextInputFormatTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/record/io/FixedLenghtInputFormatTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/record/io/ExternalProcessInputFormatTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/record/io/ExternalProcessFixedLengthInputFormatTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/record/io/CsvOutputFormatTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/record/io/CsvInputFormatTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/record/ReduceWrappingFunctionTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/record/CoGroupWrappingFunctionTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/operators/translation/ReduceTranslationTests.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/operators/translation/DistrinctTranslationTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/operators/translation/DeltaIterationTranslationTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/operators/translation/AggregateTranslationTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/operator/ProjectionOperatorTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/operator/JoinOperatorTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/operator/GroupingTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/operator/DistinctOperatorTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/operator/CrossOperatorTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/operator/CoGroupOperatorTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/operator/AggregateOperatorTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/io/TextInputFormatTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/io/CsvInputFormatTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/io/CollectionInputFormatTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/io/CSVReaderTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/functions/SemanticPropertiesTranslationTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/functions/SemanticPropertiesProjectionTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/functions/SemanticPropUtilTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/test/java/org/apache/flink/api/java/MultipleInvokationsTest.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/hadoop/io/Writable.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/record/RecordSerializerFactory.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/record/RecordSerializer.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/record/RecordPairComparatorFactory.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/record/RecordPairComparator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/record/RecordComparatorFactory.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/record/RecordComparator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/WritableSerializer.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/WritableComparator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/ValueSerializer.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/ValueComparator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/TupleSerializer.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/TuplePairComparator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/TupleLeadingFieldPairComparator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/TupleLeadingFieldComparator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/TupleComparator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/RuntimeStatelessSerializerFactory.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/RuntimeStatefulSerializerFactory.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/RuntimePairComparatorFactory.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/RuntimeComparatorFactory.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/PojoSerializer.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/PojoPairComparator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/PojoComparator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/GenericTypeComparator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/GenericArraySerializer.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/DataOutputEncoder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/DataInputDecoder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/CopyableValueSerializer.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/CopyableValueComparator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/runtime/AvroSerializer.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/WritableTypeInfo.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/ValueTypeInfo.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/TypeInfoParser.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/TypeExtractor.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/TupleTypeInfo.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/ResultTypeQueryable.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/RecordTypeInfo.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/PrimitiveArrayTypeInfo.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/PojoTypeInfo.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/PojoField.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/ObjectArrayTypeInfo.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/InputTypeConfigurable.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/GenericTypeInfo.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/CompositeType.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/BasicTypeInfo.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/BasicArrayTypeInfo.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/typeutils/AtomicType.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple9Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple8Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple7Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple6Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple5Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple4Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple3Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple2Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple25Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple24Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple23Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple22Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple21Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple20Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple1Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple19Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple18Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple17Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple16Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple15Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple14Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple13Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple12Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple11Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/builder/Tuple10Builder.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/TupleGenerator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple9.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple8.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple7.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple6.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple5.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple4.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple3.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple25.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple24.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple23.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple22.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple21.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple20.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple2.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple19.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple18.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple17.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple16.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple15.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple14.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple13.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple12.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple11.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple10.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple1.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/tuple/Tuple.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/operators/ReduceOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/operators/OperatorInfoHelper.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/operators/MapOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/operators/JoinOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/operators/GenericDataSource.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/operators/GenericDataSink.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/operators/FileDataSource.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/operators/FileDataSink.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/operators/DeltaIteration.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/operators/CrossWithSmallOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/operators/CrossWithLargeOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/operators/CrossOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/operators/CollectionDataSource.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/operators/CoGroupOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/operators/BulkIteration.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/io/TextInputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/io/GenericInputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/io/FixedLengthInputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/io/FileOutputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/io/FileInputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/io/ExternalProcessInputSplit.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/io/ExternalProcessInputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/io/ExternalProcessFixedLengthInputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/io/DelimitedOutputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/io/DelimitedInputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/io/CsvOutputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/io/CsvInputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/io/CollectionInputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/functions/ReduceFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/functions/MapFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/functions/JoinFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/functions/FunctionAnnotation.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/functions/CrossFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/record/functions/CoGroupFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/translation/WrappingFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/translation/TupleWrappingCollector.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/translation/TupleUnwrappingIterator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/translation/TupleKeyExtractingMapper.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/translation/PlanUnwrappingReduceOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/translation/PlanUnwrappingReduceGroupOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/translation/PlanUnwrappingJoinOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/translation/PlanUnwrappingCoGroupOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/translation/PlanProjectOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/translation/PlanFilterOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/translation/KeyRemovingMapper.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/translation/KeyExtractingMapper.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/translation/JavaPlan.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/UnsortedGrouping.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/UnionOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/UdfOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/TwoInputUdfOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/TwoInputOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/SortedGrouping.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/SingleInputUdfOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/SingleInputOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/ReduceOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/ProjectOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/OperatorTranslation.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/Operator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/MapOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/Keys.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/JoinOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/Grouping.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/GroupReduceOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/FlatMapOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/FilterOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/DistinctOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/DataSource.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/DataSink.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/CustomUnaryOperation.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/CrossOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/CoGroupOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/operators/AggregateOperator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/io/TextValueInputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/io/TextOutputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/io/TextInputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/io/PrintingOutputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/io/ParallelIteratorInputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/io/LocalCollectionOutputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/io/IteratorInputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/io/DiscardingOutputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/io/DiscardingOuputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/io/CsvReader.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/io/CsvOutputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/io/CsvInputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/io/CollectionInputFormat.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/UnsupportedLambdaExpressionException.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/SemanticPropUtil.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/RichReduceFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/RichMapFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/RichJoinFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/RichGroupReduceFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/RichFlatMapFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/RichFlatJoinFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/RichFlatCombineFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/RichFilterFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/RichCrossFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/RichCoGroupFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/KeySelector.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/InvalidTypesException.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/GroupReduceIterator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/FunctionAnnotation.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/functions/FlatMapIterator.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/aggregation/UnsupportedAggregationTypeException.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/aggregation/SumAggregationFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/aggregation/MinAggregationFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/aggregation/MaxAggregationFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/aggregation/AvgAggregationFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/aggregation/Aggregations.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/aggregation/AggregationFunctionFactory.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/aggregation/AggregationFunction.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/RemoteEnvironment.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/LocalEnvironment.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/IterativeDataSet.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/ExecutionEnvironment.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/DeltaIterationResultSet.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/DeltaIteration.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/DataSet.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/src/main/java/org/apache/flink/api/java/BulkIterationResultSet.java
+  AL2 /home/travis/build/apache/incubator-flink/flink-java/pom.xml
+ 
+*****************************************************
+ Printing headers for files without AL header...
+ 
+ 

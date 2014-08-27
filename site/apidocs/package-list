@@ -1,0 +1,15 @@
+org.apache.flink.api.java
+org.apache.flink.api.java.aggregation
+org.apache.flink.api.java.functions
+org.apache.flink.api.java.io
+org.apache.flink.api.java.operators
+org.apache.flink.api.java.operators.translation
+org.apache.flink.api.java.record.functions
+org.apache.flink.api.java.record.io
+org.apache.flink.api.java.record.operators
+org.apache.flink.api.java.tuple
+org.apache.flink.api.java.tuple.builder
+org.apache.flink.api.java.typeutils
+org.apache.flink.api.java.typeutils.runtime
+org.apache.flink.api.java.typeutils.runtime.record
+org.apache.hadoop.io
